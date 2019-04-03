@@ -1,7 +1,3 @@
-## Hackerrank 30 Days of Code Solutions
-
-The following table contains solution URLs:
-
 | Challenge | Solution |
 | --- | --- |
 | Day 0: Hello, World. | [Solution](solutions/Day0_HelloWorld) |
@@ -34,9 +30,3 @@ The following table contains solution URLs:
 | Day 27: Testing | [Solution](solutions/Day27_Testing) |
 | Day 28: RegEx, Patterns, and Intro to Databases | [Solution](solutions/Day28_RegExPatternsandIntrotoDatabases) |
 | Day 29: Bitwise AND | [Solution](solutions/Day29_BitwiseAND) |
-
-
-### Footnote
-- Solutions are written by [Ahmedur Rahman Shovon](https://arshovon.com).
-- These are not meant to be the best solutions for the challeges.
-- If you have better solutions make a pull request. :)
